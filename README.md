@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
 The following **additional** features are implemented:
 
@@ -33,6 +33,11 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Getting used to Android Studio for the first time
+
+- Understanding RecyclerView and all of its parts
+
 
 ## License
 
